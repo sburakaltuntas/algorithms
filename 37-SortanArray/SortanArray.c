@@ -14,7 +14,7 @@ void sort(int array[], int size)
          }
       }
    }
-}
+} 
 
 void printArray(int array[], int size)
 {
@@ -26,6 +26,7 @@ void printArray(int array[], int size)
 
 int main()
 { 
+   
    int array[] = {9, 1, 8, 2, 7, 3, 6, 4, 5};
    //char array[] = {'F', 'A', 'D', 'B', 'C'};
    int size = sizeof(array)/sizeof(array[0]);
